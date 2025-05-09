@@ -1,4 +1,4 @@
-name: Node.js CI
+name: Node2.js CI
 
 env:
     OUTPUT_PATH: ${{ github.workspace }}
