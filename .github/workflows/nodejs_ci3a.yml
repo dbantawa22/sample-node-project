@@ -1,4 +1,4 @@
-name: Node2.js CI3a
+name: Node2.js CI3ab
 
 env:
     OUTPUT_PATH: ${{ github.workspace }}
